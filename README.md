@@ -9,7 +9,7 @@
 ### 💻 Computer Engineering Student | 🎓 Bicol University | 📍 Philippines
 **Building real projects • Learning in public • Ready for OJT/Remote Work**
 
-[View Live Site](https://myy-portfolio-wheat.vercel.app/) • [Download Resume](./Gian_Carlo_OJT_Resume_1Page.pdf) • [Contact Me](#-lets-connect)
+[View Live Site](https://myy-portfolio-wheat.vercel.app/) • [Download Resume](GianCarlo_Trilles_Resume_OJT_2026.pdf) • [Contact Me](#-lets-connect)
 
 </div>
 
@@ -201,7 +201,7 @@ Proof I don't just study — I earn credentials:
 **Next steps:** Learning proper project structure, separating CSS/JS files, and following web dev best practices. This repo will look much cleaner in a few months! 🧹
 
 ---
-👉 Explore my full portfolio here  : [Portfolio Websit](https://github.com/trillesgian29-cpu)
+👉 Explore my full portfolio here  : [Portfolio Websit](https://myy-portfolio-wheat.vercel.app/)
 
 
 ## 🔥 What I'm Working On Right Now
@@ -249,7 +249,7 @@ Proof I don't just study — I earn credentials:
 📧 **Email:** trillesgian29@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/yourusername](www.linkedin.com/in/gian-trilles)  
 🐙 **GitHub:** [github.com/trillesgian29-cpu](https://github.com/trillesgian29-cpu)  
-🌐 **Portfolio:** [trillesgian29-cpu.github.io/portfolio]([https://trillesgian29-cpu.github.io/portfolio](https://trillesgian29-cpu.github.io/portfolio)  
+🌐 **Portfolio:** [trillesgian29-cpu.github.io/portfolio]([https://trillesgian29-cpu.github.io/portfolio]([https://trillesgian29-cpu.github.io/portfolio](https://myy-portfolio-wheat.vercel.app/))  
 📱 **Phone:** +63 966 421 2170
 
 **Response time:** Usually within 24 hours. If it's about OJT opportunities, I'll respond even faster! ⚡
@@ -301,7 +301,7 @@ Big thanks to:
 
 **Let's build something amazing together!**
 
-[📧 Send me an email](mailto:trillesgian29@gmsil.com) • [💼 View my resume](./Gian_Carlo_OJT_Resume_1Page.pdf) • [🌐 Visit my portfolio](https://trillesgian29-cpu.github.io/portfolio)
+[📧 Send me an email](mailto:trillesgian29@gmsil.com) • [💼 View my resume](./Gian_Carlo_OJT_Resume_1Page.pdf) • [🌐 Visit my portfolio](https://myy-portfolio-wheat.vercel.app/)
 
 </div>
 
