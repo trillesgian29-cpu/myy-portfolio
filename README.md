@@ -9,7 +9,7 @@
 ### 💻 Computer Engineering Student | 🎓 Bicol University | 📍 Philippines
 **Building real projects • Learning in public • Ready for OJT/Remote Work**
 
-[View Live Site](https://trillesgian29-cpu.github.io/portfolio) • [Download Resume](./Gian_Carlo_OJT_Resume_1Page.pdf) • [Contact Me](#-lets-connect)
+[View Live Site](https://myy-portfolio-wheat.vercel.app/) • [Download Resume](./Gian_Carlo_OJT_Resume_1Page.pdf) • [Contact Me](#-lets-connect)
 
 </div>
 
